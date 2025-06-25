@@ -1,2 +1,2 @@
-# BrainVolumetricChange
-Code for the Master Information Studies: Data Science track Thesis on predicting brain tissue volumetric changes after radiotherapy.
+# Modeling Brain Tissue Volumetric Changes after Radiotherapy
+This repository contains the code related to the MSc Information Studies (DS track) thesis: 'Modeling Brain Tissue Volumetric Change after Radiotherapy'. In this thesis, private MRI data from UMC Amsterdam are used to model and analyze volumetric change rates of healthy-appearing brain tissue of patients who have undergone radiotherapy on their brain metastases. The code can unfortunately not be executed without access to the private medical data. Sharing of these data is not permitted as per UMC guidelines. Therefore the Jupyter Notebook in this GitHub repository only provides information on the specific code and methods that were used to obtain the final results of the thesis. 
